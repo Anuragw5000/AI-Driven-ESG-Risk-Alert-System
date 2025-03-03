@@ -1,0 +1,7 @@
+streamlit  
+pandas  
+gnews  
+transformers  
+plotly  
+python-dotenv  
+sqlalchemy  
